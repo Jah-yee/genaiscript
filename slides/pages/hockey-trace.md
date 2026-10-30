@@ -2,7 +2,7 @@
 layout: trace
 ---
 
-# Hockey line assigment
+# Hockey line assignment
 
 <div class="rounded border border-gray-500 p-4">
 
